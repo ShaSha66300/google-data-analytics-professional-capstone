@@ -41,18 +41,83 @@ To support a new marketing strategy, this analysis compares how casual riders an
 - Month/day-of-week/hour (engineered features)
 
 ### User Type
-
+- Member (User with membership)
+- Casual (User without membership)
+  → *No demographic or personnally identifying information*
 
 ## Key Insights
 
-- Members ride more during weekdays and for commuting
-- More casual riders during weekends and for longer leisure rides
-- Scooters attract new casual users but show little adoption among members
-- Membership-focused campaigns should target:
-  - evening/weekend riders
-  - scooter-first users
-  - high-traffic tourist zones
+### 1. Weekly Ride Patterns
 
+- Weekdays
+  - Members ride significantly more than casual riders
+  - Strong peak during commute hours
+
+- Weekends
+  - Casual rides increase
+  - Member rides decrease
+
+→ Suggests commuting behavior for members vs. leisure behavior for casual riders.
+
+### 2. Seasonal Trends
+
+- Cold months
+  - Ride volume drops for both groups
+  - Casual ridership drops the most
+
+- Warm months
+  - Sharp rise in ridership for both groups
+  - Casual rides increase by +1200% from January → July
+  - Member rides increase by +250%
+
+→ Casual riders are highly weather-sensitive.
+
+### 3. Ride Length Differences
+
+- Casual riders have longer average ride durations
+
+- Their average ride length increases on weekends
+
+- Member ride duration is shorter and stable throughout the week
+
+→ Members use Cyclistic mainly for transport, casual riders for leisure/tourism.
+
+### 4. Station Usage Patterns
+
+- Annual Members
+  - Even distribution across top stations
+  - Most frequently used stations located near workplaces
+
+- Casual Riders
+  - Uneven distribution
+  - High concentration near tourist hotspots
+
+
+
+## Recommendations to Convert Casual Riders into Members
+
+### 1. Seasonal & Timing-Based Promotions
+
+Target periods with high casual activity :
+
+- Free summer membership trials
+- Weekend-only discounts
+- Good-weather notifications via the app
+
+### 2. Location-Based Incentives
+
+Focus on tourist-heavy stations :
+
+- “Ride more, save more” offers near attractions
+- Exclusive member discounts at tourist hotspots
+- On-site promotional booths during peak season
+
+### 3.  Bike-Type Incentives
+
+Capitalize on casual riders’ preference for classic bikes :
+- Unlimited 45-minute classic bike rides for members
+- Classic-bike “tour bundles” as membership teasers
+- Discounted day passes targeting casual leisure users
 
 ## Tools & Skills Used
 
